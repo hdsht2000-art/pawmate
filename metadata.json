@@ -1,0 +1,6 @@
+{
+  "name": "PawMate",
+  "description": "A warm and gentle pet adoption platform designed to connect loving owners with their perfect fluffy companions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
